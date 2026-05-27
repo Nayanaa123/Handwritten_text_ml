@@ -174,26 +174,7 @@ http://localhost:8501
 ```
 
 ---
-
-# Output Screenshots
-
-## Output 1
-![Output 1](./screenshots/output1.png)
-
-## Output 2
-![Output 2](./screenshots/output2.png)
-
-## Output 3
-![Output 3](./screenshots/output3.png)
-
-## Output 4
-![Output 4](./screenshots/output4.png)
-
-## Output 5
-![Output 5](./screenshots/output5.png)
-
-## Output 6
-![Output 6](./screenshots/output6.png)
+# Output Screenshots ## Output 1 ![Output 1](Handwritten_Text_Generation/screenshots/output1.png) ## Output 2 ![Output 2](Handwritten_Text_Generation/screenshots/output2.png) ## Output 3 ![Output 3](Handwritten_Text_Generation/screenshots/output3.png) ## Output 4 ![Output 4](Handwritten_Text_Generation/screenshots/output4.png) ## Output 5 ![Output 5](Handwritten_Text_Generation/screenshots/output5.png) ## Output 6 ![Output 6](Handwritten_Text_Generation/screenshots/output6.png)
 
 ---
 
